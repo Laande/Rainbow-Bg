@@ -6,7 +6,7 @@
 
 Open the file with notepad
 
-And you cand edit the section " commands "
+And you can edit the section " commands "
 
 # Header
 
